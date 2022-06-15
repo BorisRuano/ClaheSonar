@@ -1,11 +1,6 @@
-//#include <opencv2/opencv.hpp>
-//#include <opencv2/imgproc.hpp>
-//#include <opencv2/highgui/highgui.hpp>
-//#include "opencv2/highgui.hpp"
 #include <algorithm>
 #include <chrono>
 #include <iostream>
-//#include <stdio.h>
 #include <vector>       // std::vector
 #include <cstdlib>
 #include <sstream>
